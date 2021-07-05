@@ -1,4 +1,5 @@
-module github.com/Ne0nd0g/merlin
+module github.com/Conanjun/testmerag
+
 
 require (
 	github.com/CUCyber/ja3transport v0.0.0-20191126031250-d2ab5557668f // indirect
